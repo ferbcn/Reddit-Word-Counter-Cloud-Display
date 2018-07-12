@@ -9,10 +9,11 @@ word counter and wordcloud display for reddit
 	 ID='YOUR_ID'  
 	 SECRET='YOUR_SECRET'  
 	 AGENT='Example Bot by /u/example_bot'  
-	 
+
 3. Run `pip install -r requirements.txt`
 
+Optional: edit stopwords.py (words that are excluded from word count)
+	 
 # Run
-
-	Run: word_count.py
+Run: word_count.py
   
