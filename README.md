@@ -15,5 +15,5 @@ word counter and wordcloud display for reddit
 Optional: edit stopwords.py (words that are excluded from word count)
 	 
 # Run
-Run: word_count.py
+Run: word_counter.py
   
