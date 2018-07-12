@@ -1,5 +1,5 @@
-# RedditWordCounterCloud
-word counter and wordcloud display for reddit
+# Reddit Word-Counter & Word-Cloud-Display
+Counts and ranks top words found in titles of the selected subreddits and displays a wordcloud for each subreddit
 
 # Setup 
 1. Create a [reddit personal use script application](https://www.reddit.com/prefs/apps/).
