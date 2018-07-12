@@ -35,24 +35,6 @@ def CountWords(sub, LIM):
         #print("---------------------------------\n")
         allTitles.append(submission.title)
 
-        # extract all top level comments (very slow)
-        """# read every comment for this submission
-        for top_level_comment in submission.comments:
-            try:
-                #print (top_level_comment.body)
-                allComments.append (top_level_comment.body)
-            except Exception as e:
-                print (e)
-
-    # extract every word from all comments and append to allWords
-    for comment in allComments:
-        words = str(comment).split()
-        for word in words:
-            if word.lower() not in stopwords:
-                allWords.append(word)
-                allWordsStr += word + " "
-    """
-
     # extract every word from all titles and append to allWords
     for title in allTitles:
         words = title.split()
