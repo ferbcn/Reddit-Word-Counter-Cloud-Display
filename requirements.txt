@@ -1,2 +1,3 @@
 praw
 matplotlib
+wordcloud
