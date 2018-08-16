@@ -18,6 +18,7 @@ Optional: edit stopwords.py (words that are excluded from word count)
 Run: word_counter.py
   
   
+  
 # Example console ouput:
 
 ###############################
