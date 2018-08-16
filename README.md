@@ -19,7 +19,7 @@ Run: word_counter.py
   
   
   
-# Example console ouput:
+# Example console output:
 
 ###############################
 ### Reddit Wordcounter v1.0 ###
