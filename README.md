@@ -23,6 +23,7 @@ Run: word_counter.py
 ###############################
 ### Reddit Wordcounter v1.0 ###
 ###############################
+
 Subreddit(s) to search in (separated by space): cryptocurrency bitcoin ethereum nanocurrency
 Number of submissions to crawl through: 100
 Crawling through titles in subreddit: NANOCURRENCY
